@@ -1,4 +1,7 @@
-jupyter
+Jupyter
 numpy
 altair
 pandas
+seaborn
+matplotlib
+openpyxl
